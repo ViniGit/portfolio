@@ -7418,3 +7418,7 @@ form .row:first-child .floating-label-form-group {
 .avatar{
   border-radius: 120px;
 }
+.charts{
+  width: 332px !important;
+  height: 312px !important;
+}
